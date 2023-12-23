@@ -30,10 +30,3 @@ Siempre estoy abierto a nuevas oportunidades y colaboraciones. ¡No dudes en con
  <img border="0" alt="Valentin Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
  </a>
 </p>
-
-<br>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  <b>Competitive Programming</b>
-<br>
-
-
