@@ -3,9 +3,9 @@ Soy un estudiante apasionado de Sistemas de Información con un firme compromiso
 
 ### Objetivos y Motivación 🎯
 
-En constante búsqueda de desafíos para expandir mis habilidades y conocimientos, creo firmemente en el aprendizaje continuo como motor de crecimiento personal y profesional. Mi nivel de inglés, actualmente intermedio, refleja mi dedicación para mejorar la comunicación en un mundo cada vez más interconectado.
-Mi objetivo es contribuir a proyectos significativos, aportando no solo habilidades técnicas sino también una mentalidad de aprendizaje constante. Estoy entusiasmado por participar en iniciativas que no solo me desafíen profesionalmente, sino que también generen un impacto positivo en la comunidad y el mundo que nos rodea.
-Siempre estoy abierto a nuevas oportunidades y colaboraciones. ¡No dudes en contactarme para explorar cómo podemos trabajar juntos para alcanzar nuevos horizontes!
+Estoy en constante búsqueda de desafíos para expandir mis habilidades y conocimientos, creo firmemente en el aprendizaje continuo como motor de crecimiento personal y profesional. Mi nivel de inglés, actualmente intermedio, refleja mi dedicación para mejorar la comunicación en un mundo cada vez más interconectado.
+Mi objetivo es contribuir a proyectos, aportando no solo habilidades técnicas sino también una mentalidad de aprendizaje constante. Estoy entusiasmado por participar en iniciativas que no solo me desafíen profesionalmente, sino que también generen un impacto positivo en la comunidad y el mundo que nos rodea.
+¡Siempre estoy abierto a nuevas oportunidades y colaboraciones!
 
 <br>
 
