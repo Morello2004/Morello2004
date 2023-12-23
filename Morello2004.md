@@ -8,24 +8,16 @@ Mi objetivo es contribuir a proyectos significativos, aportando no solo habilida
 Siempre estoy abierto a nuevas oportunidades y colaboraciones. ¡No dudes en contactarme para explorar cómo podemos trabajar juntos para alcanzar nuevos horizontes!
 
 <br>
-<h1 align="center">Contacto 📫
 
- 
-<br>
-
-
-<p align="center"><!-----Social Accounts------>
-
-<p align="center">
- <a href="https://github.com/Morello2004">
- <img border="0" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png">
- </a>
-
- <a href="www.linkedin.com/in/valentin-morello-b3b323222">
- <img border="0" alt="Valentin LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
- </a>
-
- <a href="mailto:valentinmorello1@gmail.com">
- <img border="0" alt="Valentin Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
- </a>
-</p>
+<h3 align="center">Contacto 📫</h3>
+<div align="center">
+<a href="https://github.com/Morello2004" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:valentinmorello1@gmail.com">
+<img src=https://img.shields.io/badge/Mi%20mail-white?style=for-the-badge&logo=Gmail alt=Mi mail style="margin-bottom: 5px;" />
+</a>  
+<a href="https://linkedin.com/in/yuki-hime" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</div>  
