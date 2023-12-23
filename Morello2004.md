@@ -22,7 +22,6 @@ Siempre estoy abierto a nuevas oportunidades y colaboraciones. ¡No dudes en con
  </a>
 
  <a href="www.linkedin.com/in/valentin-morello-b3b323222">
- 
  <img border="0" alt="Valentin LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
  </a>
 
